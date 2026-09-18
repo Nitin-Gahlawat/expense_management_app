@@ -1,16 +1,71 @@
-# expense_management_app
+# Expense Management App
 
-A new Flutter project.
+A simple expense management application built with **Flutter** and **Firebase**.
+The app helps users track, manage, and analyze their daily expenses.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+* Add and manage expenses
+* Track expense history
+* Categorize expenses
+* Store data locally using Hive
+* Firebase integration
+* AI-powered expense insights
+* Receipt/image support
+* Expense analytics
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* **Flutter & Dart**
+* **Firebase**
+* **Riverpod** – State Management
+* **Hive** – Local Storage
+* **Google Generative AI** – AI Integration
+* **Image Picker** – Image Handling
+* **Intl** – Date & Number Formatting
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📦 Installation
+
+Clone the repository:
+
+```bash
+git clone <repository-url>
+cd expense_management_app
+```
+
+Install dependencies:
+
+```bash
+flutter pub get
+```
+
+Configure Firebase for the project, then run:
+
+```bash
+flutter run
+```
+
+## 🧪 Development
+
+Run tests:
+
+```bash
+flutter test
+```
+
+Check for issues:
+
+```bash
+flutter analyze
+```
+
+## 📱 Platform
+
+Built with Flutter and can be configured for:
+
+* Android
+* iOS
+
+## 👨‍💻 Developed With
+
+**Flutter + Firebase + Riverpod + Hive + Google Generative AI**
